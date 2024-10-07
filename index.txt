@@ -1,0 +1,266 @@
+Foodie palace. - Supper delicious meals in town!
+
+
+
+#---------- HEADER ----------#
+
+Foodie.
+
+Home
+About Us
+Shop
+Contact Us
+
+aria-label = Search
+<ion-icon name="search-outline"></ion-icon>
+
+Reservation
+
+aria-label = Toggle Menu
+
+
+
+#---------- SEARCH BOX ----------#
+
+aria-label = Cancel search
+<ion-icon name="close-outline"></ion-icon>
+
+aria-label = Search here
+placeholder = Type keywords here...
+
+aria-label = Submit search
+<ion-icon name="search-outline"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+Eat Sleep And work smart
+
+Supper delicious Meals in town!
+
+Food is any substance consumed to
+provide nutritional support for an organism.
+Book A Table
+
+alt = Burger
+
+
+
+
+
+#---------- ABOUT ----------#
+
+alt = Burger with Drinks
+
+alt = get up to 50% off now
+
+Satisfy Your Cravings with the Best Meals in Town!
+
+Welcome to Foodie palace, Nairobi's premier food delivery service.
+    We're passionate about bringing the city's diverse culinary delights right to your doorstep. 
+     Our mission is to provide a seamless and enjoyable dining experience, 
+     whether you're in the mood for traditional Kenyan meals, international flavors, or something in between.
+With a wide range of restaurants and cuisines to choose from,
+you're sure to find something that satisfies your cravings. 
+  At Foodie palace, we're committed to quality, convenience, and customer satisfaction. 
+            Join us on a culinary journey through Nairobi and discover the best meals in town!"
+
+<ion-icon name="checkmark-outline"></ion-icon>
+Delicious & Healthy Foods
+
+Spacific Family And Kids Zone
+
+Music & Other Facilities
+
+Fastest Food Home Delivery
+
+Order Now
+
+
+
+#---------- FOOD MENU ----------#
+
+Popular Dishes
+
+Our Delicious Foods
+
+Food is any substance consumed to provide nutritional support for an organism.
+
+All
+Pizza
+Burger
+Drinks
+Sandwich
+
+alt = Fried Chicken Unlimited
+
+-15%
+
+Order Now
+
+Chicken
+
+<ion-icon name="star"></ion-icon>
+
+Fried Chicken Unlimited
+
+Price:
+$49.00
+$69.00
+
+
+alt = Burger King Whopper
+
+-10%
+
+Noddles 
+ 
+Burger King Whopper
+
+$29.00 
+$39.00
+
+alt = White Castle Pizzas
+
+-25%
+Pizzas 
+
+White Castle Pizzas
+
+$49.00 
+$69.00
+
+alt = Bell Burrito Supreme
+
+-20%
+Burrito 
+ 
+Bell Burrito Supreme
+
+$59.00
+$69.00
+
+alt = Kung Pao Chicken BBQ
+
+-5%
+Nuggets 
+
+Kung Pao Chicken BBQ
+
+$49.00
+$69.00
+
+alt = Wendy's Chicken
+
+-15%
+Chicken 
+
+Wendy's Chicken
+
+$49.00 
+$69.00
+
+
+
+#---------- CTA ----------#
+
+The Foodie Have Excellent Of Quality Meals!
+
+Get the best food in Nairobi delivered right to your doorstep. 
+ Order now and enjoy a convenient and delicious meal. 
+ Our chefs use only the freshest ingredients to craft dishes that will satisfy your cravings.
+
+Order Now
+
+alt = Burger
+
+alt = get up to 50% off now
+
+
+
+#---------- DELIVERY ----------#
+
+A Moments Of Delivered On Right Time & Place
+
+At Foodie palace, we understand the importance of timely and convenient food delivery. 
+ That's why we offer fast and reliable delivery services to our customers in Nairobi. 
+ Our team of experienced delivery riders will ensure that your food is delivered hot
+and fresh to your doorstep within  30-45 minute. We cover all areas of Nairobi,
+including  Westlands, Kilimani, Upper Hill.
+ Simply place your order online or through our mobile app, and we'll take care of the rest.
+ Enjoy your favorite dishes from the comfort of your own home or office
+
+alt = clouds
+
+alt = delivery boy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#---------- FOOTER ----------#
+
+Foodie.
+
+Financial experts support or help you to to find out which way you can raise your funds more.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+
+Contact Info
+
++254 792109967
+
+Info@YourGmail24.com
+
+kenyatta Plaza, Nairobi, MT 09514
+
+Opening Hours 
+
+Monday-Friday: 08:00-22:00
+
+Tuesday 4PM: Till Mid Night
+
+Saturday: 10:00-16:00
+
+Book a Table
+
+placeholder = Your Name
+
+placeholder = Email
+
+aria-label = Total person
+
+Person
+2 Person
+3 Person
+4 Person
+5 Person
+
+aria-label = Reservation date
+
+placeholder = Message
+
+Book a Table
+
+&copy; 2024 All Rights Reserved.
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = Back to top
+
+<ion-icon name="chevron-up"></ion-icon>
